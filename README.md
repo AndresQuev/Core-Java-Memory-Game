@@ -75,3 +75,7 @@ git clone https://github.com/yourusername/memorama.git
 Abrir el proyecto en NetBeans.
 
 Compilar y ejecutar el programa.
+
+![Captura 1](https://github.com/user-attachments/assets/af6f8810-9e2d-486a-9388-a1be56f7bd96)
+
+![Captura 2](https://github.com/user-attachments/assets/bcb15630-ce2a-4d21-a4ec-ee2cf0bbf39b)
